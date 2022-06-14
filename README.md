@@ -1,14 +1,39 @@
-https://courses.wesbos.com/account/access/610d6d64b36fe451adb8914b/view/194130480
-Playing with CSS Variables and JS
+<h1>Variables</h1>
 
-CSS variables
+<h1>
+  <img src="https://">
+</h1>
 
-:root {
---base: #ffc600;
---spacing: 10px;
---blur: 10px;
-}
+<h3 align="center">
+  <a href="https://willowy-arithmetic-b701e1.netlify.app" target="_blank">Acessar a demonstração</a>
+</h3>
 
-JS
+## 🎫 Sobre
 
-`document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix);`
+Projeto desenvolvido com HTML, CSS e Javascript. Variables.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- HTML
+- CSS
+- Javascript
+
+---
+
+## 🔗 Links úteis
+
+- [Github](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [w3schools](https://www.w3schools.com/)
+- [MDN](https://developer.mozilla.org/)
+
+---
+## Fonte
+
+- [Javascript30 - 30 days vanilla js coding challenge](https://javascript30.com/)
+
+---
+
+Desenvolvido por [LadeiaDev](https://ladeia.dev.br/)
